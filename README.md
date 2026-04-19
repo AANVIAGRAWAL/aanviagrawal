@@ -2,36 +2,16 @@
 <h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+in+Progress📊;Python+%7C+SQL+%7C+Power+BI;Love+Turning+Data+into+Insights💡&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Projects🚀&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://github.com/AANVIAGRAWAL" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/aanvi-agrawal-56932a287" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
----
-
-## 🧠 About Me
-- 💻 Passionate about **Data Analysis & Visualization**
-- 📊 Skilled in **Python, SQL, Power BI**
-- 🚀 Currently building **real-world data projects**
-- 🎯 Targeting **Data Analyst roles (UK / placements)**
-
----
-
-## ⚡ A Few Quick Facts
-- 🔍 Exploring **Business Intelligence & Analytics**
-- 📊 Built projects on **Netflix Analysis & Sales Dashboard**
-- 💡 Love solving real-world problems using data
-- 🧠 Learning something new every day!
+## 👩‍💻 About Me
+- 💡 Passionate about **Data Analysis & Visualization**
+- 📊 Skilled in **Python, SQL, Power BI, Excel**
+- 🚀 Building **real-world data projects**
+- 🎯 Targeting **Data Analyst roles (placements / UK)**
 
 ---
 
@@ -49,39 +29,61 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 📊 Netflix Data Analysis  
+- Analyzed Netflix dataset using **Python & Pandas**  
+- Found trends in content, genres, and growth  
+👉 [View Project](https://github.com/AANVIAGRAWAL)
+
+---
+
+### 📈 Sales Dashboard (Power BI)  
+- Built interactive dashboard for **business insights**  
+- Visualized sales performance & KPIs  
+👉 [View Project](https://github.com/AANVIAGRAWAL)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AANVIAGRAWAL&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AANVIAGRAWAL&show_icons=true&theme=tokyonight&cache_seconds=1" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AANVIAGRAWAL&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AANVIAGRAWAL&theme=tokyonight&cache_seconds=1" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AANVIAGRAWAL&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AANVIAGRAWAL&theme=tokyo-night&cache_seconds=1"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 📊 **Netflix Data Analysis** (Python, Pandas, Visualization)
-- 📈 **Sales Dashboard** (Power BI, Business Insights)
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/AANVIAGRAWAL" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/aanvi-agrawal-56932a287" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
 ## 🎯 Goals
-- 💼 Get placed as a **Data Analyst**
-- 🌍 Work in **UK / global companies**
-- 📊 Master **SQL, Power BI & Analytics**
+- 💼 Become a **Data Analyst**
+- 🌍 Work with **global companies**
+- 📊 Master **SQL, Power BI & Data Analytics**
 
 ---
 
 ## ✨ Fun Fact
-🎉 I love exploring new technologies and turning data into meaningful insights!
+I enjoy turning raw data into meaningful insights that help solve real-world problems 🚀
 
 ---
 
